@@ -1,0 +1,17 @@
+INTEGRATED STUDY & PRODUCTIVITY SUITE - PLAIN TEXT TEMPLATE
+===========================================================
+
+1. SHORT NOTES MODULE:
+-----------------------
+- Summarize topic concepts point-by-point.
+- Write output to disk via file stream export option.
+
+2. QUIZ ENGINE MODULE:
+----------------------
+- Set up custom multiple-choice questions with 4 option choices.
+- Grade performance immediately upon completion.
+
+3. CHECKLIST MODULE:
+--------------------
+- Track study tasks during daily work sessions.
+- Invert task status dynamically using menu toggles.
